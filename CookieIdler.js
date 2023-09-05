@@ -458,7 +458,7 @@ let baseCost = [
 ];
 // Ideally, 1/a lot base
 let bcps = [
-    7,// 0
+    BF("ee6000000") // 0
     310,// 1
     5.3e4,// 2
     7.4e7,// 3
